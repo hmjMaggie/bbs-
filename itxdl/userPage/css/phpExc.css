@@ -1,0 +1,163 @@
+#main{
+	background-color:#fff;
+	border:1px solid #f2f2f2;
+	border-top:none;
+}
+.main-nav{
+	height:53px;
+	line-height:53px;
+	border-bottom:3px solid #888;
+}
+.process{
+	padding-left:30px;
+	float:left;
+}
+.main-nav-r{
+	float:right;
+}
+.main-nav-r a{
+	padding-right:10px;
+}
+.main-title{
+	height:62px;
+	line-height:62px;
+	padding:0 20px; 
+}
+.main-title h3{
+	float:left;
+	width:500px;
+}
+.main-title p{
+	float:right;
+}
+.main-intro{
+	padding:0 20px; 
+	font-size:0;
+}
+.main-cont{
+	padding:0 10px;
+}
+.main-cont-page{
+	height:37px;
+	padding:13px 0 0 10px;
+	position:relative;
+	vertical-align:top;
+}
+.main-cont-page li{
+	float:left;
+	margin-right:5px;
+}
+.main-cont-page .active{
+	background-color:#78adcd;
+	border:1px solid #78adcd;
+	color:#fff;
+}
+.nextPage{
+	padding-right:10px;
+}
+.inputPage{
+	margin:0 5px;
+	width:20px;
+	height:20px;
+	line-height:20px;
+	padding:0 3px;
+	text-align:center;
+	border:1px solid #ccc;
+}
+.goMessage{
+	display:block;
+	width:72px;
+	height:28px;
+	line-height:28px;
+	text-align:center;
+	color:#fff;
+	background-color:#f37c06;
+	border:1px solid #e48004;
+	border-radius:4px;
+	position:absolute;
+	right:10px;
+	top:13px;
+}
+.final .goMessage{
+	right:184px;
+}
+.main-cont-nav1{
+	background-color:#f4f4f4;
+	border-bottom:1px solid #fafafa;
+	padding-left:20px;
+	margin-bottom:10px;
+}
+.main-cont-nav1 li{
+	float:left;
+	height:28px;
+	line-height:28px;
+	padding:0 20px;
+	cursor:pointer;
+}
+.main-cont-nav1 li:hover{
+	background-color:#fff;
+	margin-bottom:-1px;
+	height:29px;
+}
+.main-cont-nav1 .active{
+	background-color:#fff;
+	margin-bottom:-1px;
+	height:29px;
+}
+.main-cont-nav2{
+	padding:8px 0;
+	border-bottom:1px solid #efefef;
+}
+.main-cont-nav2 li{
+	float:left;
+	height:24px;
+	line-height:24px;
+	position:relative;
+}
+.main-cont-nav2 a{
+	display:inline-block;
+	color:#0c6793;
+	padding:0 11px;
+}
+.main-cont-nav2 a:hover{
+	color:#000;
+}
+.main-cont-nav2 .active{
+	color:#000;
+}
+.main-cont-nav2 i{
+	display:inline-block;
+	width:1px;
+	height:16px;
+	background-color:#c5c5c5;
+	position:absolute;
+	top:4px;
+}
+.link-title{
+	border-bottom:1px solid #efefef;
+	height:24px;
+	line-height:24px;
+}
+.link-title-l{
+	float:left;
+	padding-left:20px;
+}
+.link-title-l .active{
+	color:#0c6793;
+}
+.link-title-l a{
+	margin-right:5px;
+}
+.link-title-r{
+	float:right;
+}
+.link-title-r span{
+	margin:0 30px
+}
+.link-title-r label{
+	cursor:pointer;
+}
+.link li{
+	border-bottom:1px dotted #EFEFEF;
+	padding-left:40px;
+}

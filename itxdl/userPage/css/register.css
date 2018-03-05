@@ -1,0 +1,81 @@
+#banner{
+	padding-top:10px;
+}
+.slider{
+	float:left;
+}
+.banner-r{
+	float:right;
+	width:365px;
+	position:relative;
+}
+.banner-r li{
+	float:left;
+	padding:0 0 10px 9px;
+	font-size:0;
+}
+.banner-r li:nth-child(4){
+	position:absolute;
+	left:0px;
+	bottom:0px;
+}
+
+.main-box{
+	margin-top:12px;
+	background-color:#fff;
+}
+.main-box-title{
+	height:40px;
+	line-height:40px;
+	background-color:#fdfdfd;
+	border-bottom:1px solid #ccc;
+	border-radius:8px 8px 0 0;
+}
+
+.register{
+	width: 960px;
+	background: #ffffff;
+	margin: 0 auto;
+	border-top: 3px solid #878787;
+}
+select{border: 1px solid #000000;}
+table{
+	padding:50px 0 0 30px;
+}
+table td{
+	width:50%;
+}
+table input{
+	width: 228px;
+	height: 28px;
+	padding:0 5px;
+}
+#read{
+	width:15px;
+	height:15px;
+	float:right;
+}
+.register h3{
+	width: 90%;
+	margin: 0 auto;
+	border-bottom: 1px solid #ececec;
+	line-height: 35px;
+}
+.enroll{
+	width:600px;
+	height:667px;
+	float:left;
+}
+.login{
+	height: 207px;
+	float: right;
+	border-left: 1px solid #CCCCCC;
+	width:270px;
+	margin-top: 60px;
+	padding-left:30px;
+}
+.login p{
+	line-height: 20px;
+	height:20px;
+	padding:10px 0;
+}

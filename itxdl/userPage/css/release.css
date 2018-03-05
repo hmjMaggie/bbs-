@@ -1,0 +1,67 @@
+.fastLink{
+	font-size: 14px;
+	line-height: 18px;
+	height: 24px;
+	margin: 10px 0;
+	background-color: #f1f2f6;
+	display: inline-block;
+	vertical-align: 3px;
+	color: #0000;
+	}
+.msg{
+	width: 220px;
+	line-height: 20px;
+	height: 20px;
+	font-size: 10px;
+	margin: 10px 0;
+	color: #666666;
+}
+
+.yellow{
+	background-color: lightyellow;
+}
+.form{
+	background-color: #FFFFFF;
+	padding:20px 0 50px 0;
+	}
+.genres{
+	height: 28px;
+	line-height: 20px;
+	border: 1px solid #CCCCCC;
+	font-size: 16px;
+	}
+	
+.genresCont{
+	width: 300px;
+	height: 26px;
+	line-height: 20px;
+	border: 1px solid #CCCCCC;
+	font-size: 16px;
+	vertical-align: 1px;
+}
+.textCont{
+	width: 950px;
+	height: 400px;
+	font-size: 18px;
+	color: #000;
+	border-bottom: 30px solid #f1f2f6;
+	}
+.submit{
+	margin: 0 5px;
+	color: #000;
+	background-color: #F1F2F6;
+	border:1px solid #666666;
+	border-radius: 4px;
+	width: 100px;
+	height: 30px;
+	font-family: "宋体";
+	font-weight: bold;
+	font-size: 16px;
+}
+.orange{
+	cursor: pointer;
+	color: #FFFFFF;
+	background-color:darkorange;
+	border:1px solid darkorange;
+	box-shadow: 0px 0px 3px 0px inset;
+}
